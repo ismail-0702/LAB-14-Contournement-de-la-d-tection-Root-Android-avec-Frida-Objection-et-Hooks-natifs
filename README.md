@@ -1,7 +1,7 @@
 # LAB-14-Contournement-de-la-d-tection-Root-Android-avec-Frida-Objection-et-Hooks-natifs
 Ce lab va un cran plus loin : on ne se contente plus d'un bypass Java ou d'une commande Objection. On combine les deux, on ajoute des hooks natifs, et on trace les appels système pour comprendre ce que l'application fait vraiment sous le capot.
 L'application reste la même — OWASP UnCrackable Level 1 — mais cette fois on l'attaque méthodiquement, couche par couche, pour voir exactement où ça bloque et comment le débloquer.
-ÉlémentDétailSystèmeWindows PowerShellÉmulateurAndroid Emulator 5554Frida17.8.0Objection1.12.4Android11Package cibleowasp.mstg.uncrackable1
+ÉlémentDétailSystèmeWindows PowerShellÉmulateurAndroid Emulator 5554Frida17.8.0Objection1.12.4Android11Package cibleowasp.mstg.uncrackable1  .
 
 Structure du projet
 LAB14-Bypass-Root-Frida/
